@@ -1,0 +1,9 @@
+
+Testing from Louisiana Tech University (138.47.240.92)...
+Hosted by Suddenlink Communications LLC (Bossier, LA) [98.22 km]: 72.533 ms
+Download: 29.50 Mbit/s
+Upload: 28.85 Mbit/s
+Testing from Louisiana Tech University (138.47.240.92)...
+Hosted by Suddenlink Communications LLC (Bossier, LA) [98.22 km]: 97.28 ms
+Download: 9.12 Mbit/s
+Upload: 30.12 Mbit/s
