@@ -1,0 +1,12 @@
+
+2018-10-29 10:07:36.315885 @ Nethken
+Testing from Louisiana Tech University (138.47.140.119)...
+Hosted by Northwestern State University (Natchitoches, LA) [95.22 km]: 18.538 ms
+Download: 123.52 Mbit/s
+Upload: 7.71 Mbit/s
+
+2018-10-29 10:17:55.921603 @ Nethken
+Testing from Louisiana Tech University (138.47.140.119)...
+Hosted by Northwestern State University (Natchitoches, LA) [95.22 km]: 18.842 ms
+Download: 184.14 Mbit/s
+Upload: 177.61 Mbit/s
