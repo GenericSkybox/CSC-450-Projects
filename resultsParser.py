@@ -11,7 +11,7 @@ import subprocess
 import datetime
 
 # create a constant for the location of where we're testing the network connection at (on campus)
-location = "Nethken"
+location = "Tech Pointe (TechX Lab)"
 
 # set up the files to be read from and the results to be added to
 readFile = open("tempFile.txt", "r")

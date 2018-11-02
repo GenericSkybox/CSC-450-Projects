@@ -1,12 +1,119 @@
+Thursday's Tests
 
-2018-10-29 10:07:36.315885 @ Nethken
-Testing from Louisiana Tech University (138.47.140.119)...
-Hosted by Northwestern State University (Natchitoches, LA) [95.22 km]: 18.538 ms
-Download: 123.52 Mbit/s
-Upload: 7.71 Mbit/s
+2018-11-01 16:41:22.221431 @ Tech Pointe (TechX Lab)
+Testing from Louisiana Tech University (138.47.143.29)...
+Hosted by Northwestern State University (Natchitoches, LA) [95.22 km]: 24.759 ms
+Download: 130.98 Mbit/s
+Upload: 106.86 Mbit/s
 
-2018-10-29 10:17:55.921603 @ Nethken
-Testing from Louisiana Tech University (138.47.140.119)...
-Hosted by Northwestern State University (Natchitoches, LA) [95.22 km]: 18.842 ms
-Download: 184.14 Mbit/s
-Upload: 177.61 Mbit/s
+2018-11-01 16:51:45.900379 @ Tech Pointe (TechX Lab)
+Testing from Louisiana Tech University (138.47.143.29)...
+Hosted by Northwestern State University (Natchitoches, LA) [95.22 km]: 20.231 ms
+Download: 135.64 Mbit/s
+Upload: 68.40 Mbit/s
+
+2018-11-01 17:02:06.987051 @ Tech Pointe (TechX Lab)
+Testing from Louisiana Tech University (138.47.143.29)...
+Hosted by Northwestern State University (Natchitoches, LA) [95.22 km]: 20.486 ms
+Download: 149.52 Mbit/s
+Upload: 151.48 Mbit/s
+
+2018-11-01 17:08:02.270671 @ Tech Pointe (TechX Lab)
+Testing from Louisiana Tech University (138.47.143.29)...
+Hosted by Northwestern State University (Natchitoches, LA) [95.22 km]: 19.772 ms
+Download: 171.31 Mbit/s
+Upload: 186.83 Mbit/s
+
+2018-11-01 17:18:21.328437 @ Tech Pointe (TechX Lab)
+Testing from Louisiana Tech University (138.47.143.29)...
+Hosted by Northwestern State University (Natchitoches, LA) [95.22 km]: 16.33 ms
+Download: 171.59 Mbit/s
+Upload: 194.34 Mbit/s
+
+2018-11-01 17:28:41.518825 @ Tech Pointe (TechX Lab)
+Testing from Louisiana Tech University (138.47.143.29)...
+Hosted by Northwestern State University (Natchitoches, LA) [95.22 km]: 14.472 ms
+Download: 145.37 Mbit/s
+Upload: 161.88 Mbit/s
+
+2018-11-01 17:39:02.602293 @ Tech Pointe (TechX Lab)
+Testing from Louisiana Tech University (138.47.143.29)...
+Hosted by Northwestern State University (Natchitoches, LA) [95.22 km]: 16.211 ms
+Download: 166.43 Mbit/s
+Upload: 144.28 Mbit/s
+
+2018-11-01 17:49:22.593230 @ Tech Pointe (TechX Lab)
+Testing from Louisiana Tech University (138.47.143.29)...
+Hosted by Northwestern State University (Natchitoches, LA) [95.22 km]: 14.722 ms
+Download: 163.92 Mbit/s
+Upload: 165.42 Mbit/s
+
+2018-11-01 17:59:42.008603 @ Tech Pointe (TechX Lab)
+Testing from Louisiana Tech University (138.47.143.29)...
+Hosted by Northwestern State University (Natchitoches, LA) [95.22 km]: 15.45 ms
+Download: 157.16 Mbit/s
+Upload: 182.84 Mbit/s
+
+2018-11-01 18:10:02.005755 @ Tech Pointe (TechX Lab)
+Testing from Louisiana Tech University (138.47.143.29)...
+Hosted by Northwestern State University (Natchitoches, LA) [95.22 km]: 17.475 ms
+Download: 167.18 Mbit/s
+Upload: 162.03 Mbit/s
+
+Friday's Tests
+
+2018-11-02 15:25:46.019194 @ Tech Pointe (TechX Lab)
+Testing from Louisiana Tech University (138.47.143.29)...
+Hosted by Northwestern State University (Natchitoches, LA) [95.22 km]: 30.666 ms
+Download: 170.89 Mbit/s
+Upload: 166.81 Mbit/s
+
+2018-11-02 15:36:08.830586 @ Tech Pointe (TechX Lab)
+Testing from Louisiana Tech University (138.47.143.29)...
+Hosted by Northwestern State University (Natchitoches, LA) [95.22 km]: 19.991 ms
+Download: 183.68 Mbit/s
+Upload: 122.96 Mbit/s
+
+2018-11-02 15:46:29.397993 @ Tech Pointe (TechX Lab)
+Testing from Louisiana Tech University (138.47.143.29)...
+Hosted by Northwestern State University (Natchitoches, LA) [95.22 km]: 15.681 ms
+Download: 148.85 Mbit/s
+Upload: 169.03 Mbit/s
+
+2018-11-02 15:56:50.092316 @ Tech Pointe (TechX Lab)
+Testing from Louisiana Tech University (138.47.143.29)...
+Hosted by Northwestern State University (Natchitoches, LA) [95.22 km]: 16.275 ms
+Download: 189.24 Mbit/s
+Upload: 187.88 Mbit/s
+
+2018-11-02 16:07:09.279493 @ Tech Pointe (TechX Lab)
+Testing from Louisiana Tech University (138.47.143.29)...
+Hosted by Northwestern State University (Natchitoches, LA) [95.22 km]: 14.798 ms
+Download: 181.50 Mbit/s
+Upload: 193.02 Mbit/s
+
+2018-11-02 16:17:28.551948 @ Tech Pointe (TechX Lab)
+Testing from Louisiana Tech University (138.47.143.29)...
+Hosted by Northwestern State University (Natchitoches, LA) [95.22 km]: 13.729 ms
+Download: 173.81 Mbit/s
+Upload: 182.92 Mbit/s
+
+2018-11-02 16:27:48.613603 @ Tech Pointe (TechX Lab)
+Testing from Louisiana Tech University (138.47.143.29)...
+Hosted by Northwestern State University (Natchitoches, LA) [95.22 km]: 19.391 ms
+Download: 189.39 Mbit/s
+Upload: 195.14 Mbit/s
+
+2018-11-02 16:38:11.477226 @ Tech Pointe (TechX Lab)
+Testing from Louisiana Tech University (138.47.143.29)...
+Hosted by Northwestern State University (Natchitoches, LA) [95.22 km]: 13.336 ms
+Download: 171.40 Mbit/s
+Upload: 112.35 Mbit/s
+
+2018-11-02 16:48:32.222179 @ Tech Pointe (TechX Lab)
+Testing from Louisiana Tech University (138.47.143.29)...
+Hosted by Northwestern State University (Natchitoches, LA) [95.22 km]: 15.48 ms
+Download: 181.56 Mbit/s
+Upload: 164.68 Mbit/s
+
+Sunday's Tests
